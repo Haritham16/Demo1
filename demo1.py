@@ -1,2 +1,1 @@
-
-print("application v:2.0")
+print("application version:3.0")
